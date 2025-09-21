@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "8423786146:AAGXkskAmi_XRQsmdIsnhaT_RC5BeeryH4Q"
+    APP_ID = "28015381"
+    API_HASH = "d1be9454b29326ed41b0acdef11d202c"
+    DATABASE_URL = "postgresql://postgres:QZDrefcZGHwCJpgWMxIhUWqAuDGWPzIO@turntable.proxy.rlwy.net:36300/railway"
+    SUDO_USERS = "6444822565" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/razgoogle"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
